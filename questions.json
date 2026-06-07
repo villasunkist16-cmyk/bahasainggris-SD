@@ -1,0 +1,168 @@
+[
+{
+"question": "Lihatlah gambar ini. Ruangan apakah ini dalam Bahasa inggris?",
+"image": "gambar/001.jpg",
+"questionAudio": "audio/soal/001.mp3",
+"answerAudio": "audio/jawaban/001.mp3",
+"options": [
+"Garden",
+"Kitchen",
+"Veranda"
+],
+"answer": "Veranda"
+},
+
+{
+"question": "What room is this?",
+"image": "gambar/002.jpg",
+"questionAudio": "audio/soal/002.mp3",
+"answerAudio": "audio/jawaban/002.mp3",
+"options": [
+"dining room",
+"kitchen",
+"bathroom"
+],
+"answer": "dining room"
+},
+
+{
+"question": "My mother is cooking in the ______.",
+"image": "gambar/003.jpg",
+"questionAudio": "audio/soal/003.mp3",
+"answerAudio": "audio/jawaban/003.mp3",
+"options": [
+"kitchen",
+"dining room",
+"garden"
+],
+"answer": "kitchen"
+},
+
+{
+"question": "How many cats are there?",
+"image": "gambar/004.jpg",
+"questionAudio": "audio/soal/004.mp3",
+"answerAudio": "audio/jawaban/004.mp3",
+"options": [
+"five cats",
+"six cats",
+"seven cats"
+],
+"answer": "five cats"
+},
+
+{
+"question": "What room is this?",
+"image": "gambar/005.jpg",
+"questionAudio": "audio/soal/005.mp3",
+"answerAudio": "audio/jawaban/005.mp3",
+"options": [
+"kitchen",
+"bathroom",
+"bedroom"
+],
+"answer": "bathroom"
+},
+
+{
+"question":"Rumah Bahasa inggrisnya...",
+"options":["house","garden","park"],
+"answer":"house"
+},
+{
+"question":"Nina cooks in the...",
+"options":["bedroom","living room","kitchen"],
+"answer":"kitchen"
+},
+{
+"question":"Jendela Bahasa inggrisnya...",
+"options":["window","door","house"],
+"answer":"window"
+},
+{
+"question":"Goat in Indonesian...",
+"options":["kambing","sapi","beruang"],
+"answer":"kambing"
+},
+{
+"question":"Mango is a ...",
+"options":["animal","fruit","drink"],
+"answer":"fruit"
+},
+{
+"question":"Alpukat Bahasa inggrisnya...",
+"options":["avocado","mango","apple"],
+"answer":"avocado"
+},
+{
+"question":"Children are playing in the ...",
+"options":["park","hospital","library"],
+"answer":"park"
+},
+{
+"question":"Slide in Indonesian...",
+"options":["perosotan","ayunan","kuda-kudaan"],
+"answer":"perosotan"
+},
+{
+"question":"What color fruit of banana...",
+"options":["yellow","green","white"],
+"answer":"yellow"
+},
+{
+"question":"Mangosteen in Indonesian...",
+"options":["manggis","jeruk","anggur"],
+"answer":"manggis"
+},
+{
+"question":"Kamar mandi Bahasa inggrisnya...",
+"options":["kitchen","bathroom","garage"],
+"answer":"bathroom"
+},
+{
+"question":"Playing football in Indonesian...",
+"options":["bermain sepak bola","bermain bulutangkis","bermain volley"],
+"answer":"bermain sepak bola"
+},
+{
+"question":"Saya memiliki 2 kucing Bahasa inggrisnya...",
+"options":["I have tree cats","I have one","I have two cats"],
+"answer":"I have two cats"
+},
+{
+"question":"Ruang makan Bahasa inggrisnya...",
+"options":["dining room","veranda","garage"],
+"answer":"dining room"
+},
+{
+"question":"Perosotan in English is...",
+"options":["slide","jump rope","see saw"],
+"answer":"slide"
+},
+{
+"question":"Swing in Indonesian language is...",
+"options":["jungkat jungkit","ayunan","perosotan"],
+"answer":"ayunan"
+},
+{
+"question":"Arrange into correct words D-S-L-I-E",
+"options":["LIDES","DELIS","SLIDE"],
+"answer":"SLIDE"
+},
+{
+"question":"Boneka in English is?",
+"options":["doll","toy robot","toy car"],
+"answer":"doll"
+},
+{
+"question":"Kite in Indonesian language is?",
+"options":["sepeda","kelereng","layangan"],
+"answer":"layangan"
+},
+{
+"question":"This animal has long ears. It can jump quickly. What animal is it?",
+"options":["rabbit","hen","rooster"],
+"answer":"rabbit"
+}
+
+]
